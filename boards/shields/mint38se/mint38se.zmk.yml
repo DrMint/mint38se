@@ -1,0 +1,12 @@
+file_format: "1"
+id: mint38se
+name: Mint38SE
+type: shield
+url: https://github.com/DrMint/mint38se
+requires:
+  - seeeduino_xiao_ble
+features:
+  - keys
+siblings:
+  - mint38se_left
+  - mint38se_right

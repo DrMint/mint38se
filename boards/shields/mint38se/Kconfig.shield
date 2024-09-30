@@ -1,0 +1,5 @@
+config SHIELD_MINT38SE_LEFT
+    def_bool $(shields_list_contains,mint40se_left)
+
+config SHIELD_MINT38SE_RIGHT
+    def_bool $(shields_list_contains,mint40se_right)
